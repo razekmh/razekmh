@@ -1,7 +1,7 @@
 ### Hi there 👋 I am [Mahmoud](https://razekmh.dev)
 
-![Anurag's GitHub stats](https://github-readme-stats-paddyroddy.vercel.app/api?username=razekmh&theme=dark)
-
+[![GitHub Stats Dark](https://github-readme-stats-paddyroddy.vercel.app/api?username=razekmh&disable_animations=true&hide_border=true&hide_title=true&include_all_commits=true&rank_icon=github&show=prs_merged,reviews&show_icons=true&theme=tokyonight)](https://github.com/razekmh/razekmh#gh-dark-mode-only)
+[![GitHub Stats Light](https://github-readme-stats-paddyroddy.vercel.app/api?username=razekmh&disable_animations=true&hide_border=true&hide_title=true&include_all_commits=true&rank_icon=github&show=prs_merged,reviews&show_icons=true&theme=default)](https://github.com/razekmh/razekmh#gh-light-mode-only)
 
 <!--
 **razekmh/razekmh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
