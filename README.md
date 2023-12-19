@@ -1,6 +1,6 @@
 ### Hi there 👋 I am [Mahmoud](https://razekmh.dev)
 
-![Anurag's GitHub stats](https://github-readme-stats-paddyroddy.vercel.app/api?username=razekmh&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats-paddyroddy.vercel.app/api?username=razekmh&theme=dark)
 
 
 <!--
